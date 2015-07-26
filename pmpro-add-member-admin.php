@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: Paid Memberships Pro - Add Member Admin
+Plugin Name: Paid Memberships Pro - Add Member Admin - Harp Column edition
 Plugin URI: http://www.paidmembershipspro.com/wp/pmpro-add-member-admin/
 Description: Allow admins to add members in the WP dashboard.
-Version: .1
-Author: Stranger Studios
+Version: .2
+Author: Stranger Studios/Harp Column
 Author URI: http://www.strangerstudios.com
 */
 
@@ -13,6 +13,7 @@ Author URI: http://www.strangerstudios.com
 	* Form with fields, username, email (find user), password (random), name, level, expiration (auto), credit card
 	* Add user, apply level, save order
 	* Filters for adding additional fields.
+        * Renew existing users
 */
 
 /*
